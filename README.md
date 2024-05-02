@@ -62,11 +62,16 @@ Tech Video: [[Youtube Technical Video link]](https://youtu.be/QLvNFoyTtro)
 
 #### Pre-requisite
 * Docker desktop - https://www.docker.com/products/docker-desktop/
+* OpenAI API Key - https://platform.openai.com/docs/quickstart
 ---
 
 #### Setup
 * Navigate to project directory
   > ```cd SourceCode/CareerButterflySystem```
+* Create a OpenAI API Key and navigate to the following Dockerfiles located at `SourceCode/CareerButterflySystem/cv_and_resume_generator/Dockerfile` and `SourceCode/CareerButterflySystem/one_stop_shop/Dockerfile`, replace and insert your API Key at the following line:
+```
+ENV OPEN_AI_KEY <API Key>
+```
 * Build docker images with docker compose
   > ```docker compose up```
 * The image below illustrates the connected containers and volumes in the docker compose
