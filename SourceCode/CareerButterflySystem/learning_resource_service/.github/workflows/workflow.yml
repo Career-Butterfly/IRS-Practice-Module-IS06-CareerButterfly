@@ -1,0 +1,54 @@
+# name: CICD
+
+# on:
+#   push:
+#     branches:
+#       - main
+#     paths:
+#       - 'requirements.txt'
+#       - 'Dockerfile'
+#       - 'leetcode/**'
+#       - 'company-leetcode-question-list/**'
+#       - 'company-leetcode-question-tag-count/**'
+#       - 'skill/**'
+#       - 'word classification/**'
+#       - '.k8s/**'
+#       - '**.csv'
+#       - 'learning_resource_service.py'
+#       - '.github/workflows/**'
+
+# jobs:
+#  build:
+#    runs-on: ubuntu-latest
+#    steps:
+#       - name: Checkout main
+#         uses: actions/checkout@v4
+
+#       - name: Install doctl
+#         uses: digitalocean/action-doctl@v2
+#         with:
+#           token: ${{ secrets.DIGITALOCEAN_ACCESS_TOKEN }}
+
+#       - name: Build container image
+#         run: docker build -t registry.digitalocean.com/careerbutterfly/learning_resource_service:$(echo $GITHUB_SHA | head -c7) .
+
+#       - name: Log in to DigitalOcean Container Registry with short-lived credentials
+#         run: doctl registry login --expiry-seconds 1200
+
+#       - name: Push image to DigitalOcean Container Registry
+#         run: docker push registry.digitalocean.com/careerbutterfly/learning_resource_service:$(echo $GITHUB_SHA | head -c7)
+
+#       - name: Update deployment file
+#         run: TAG=$(echo $GITHUB_SHA | head -c7) && sed -i 's|<IMAGE>|registry.digitalocean.com/careerbutterfly/learning_resource_service:'${TAG}'|' $GITHUB_WORKSPACE/.k8s/deployment.yml
+
+#       - name: Save DigitalOcean kubeconfig with short-lived credentials
+#         run: doctl kubernetes cluster kubeconfig save --expiry-seconds 600 c09e80b9-5a3d-4cf9-b3d7-e26f81bb8af5
+
+#       - name: Apply service
+#         run: kubectl apply -f $GITHUB_WORKSPACE/.k8s/learning-resource-service.yml
+
+#       - name: Deploy to DigitalOcean Kubernetes
+#         run: kubectl apply -f $GITHUB_WORKSPACE/.k8s/deployment.yml
+
+#       - name: Verify deployment
+#         run: kubectl rollout status deployment/learning-resource-app-deployment

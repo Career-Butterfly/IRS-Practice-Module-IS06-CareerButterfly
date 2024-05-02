@@ -1,0 +1,10 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+849,Maximize Distance to Closest Person,https://leetcode.com/problems/maximize-distance-to-closest-person/description/,[Array],48.0%,Medium,0
+841,Keys and Rooms,https://leetcode.com/problems/keys-and-rooms/description/,[Depth-First Search][Breadth-First Search][Graph],72.7%,Medium,0
+844,Backspace String Compare,https://leetcode.com/problems/backspace-string-compare/description/,[Two Pointers][String][Stack][Simulation],49.1%,Easy,0
+155,Min Stack,https://leetcode.com/problems/min-stack/description/,[Stack][Design],53.8%,Medium,0
+1493,Longest Subarray of 1's After Deleting One Element,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/,[Array][Dynamic Programming][Sliding Window],67.1%,Medium,0
+71,Simplify Path,https://leetcode.com/problems/simplify-path/description/,[String][Stack],41.9%,Medium,0
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/description/,[Hash Table][String][Sliding Window],34.5%,Medium,0
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/description/,[String][Dynamic Programming],33.7%,Medium,0
+977,Squares of a Sorted Array,https://leetcode.com/problems/squares-of-a-sorted-array/description/,[Array][Two Pointers][Sorting],72.7%,Easy,0

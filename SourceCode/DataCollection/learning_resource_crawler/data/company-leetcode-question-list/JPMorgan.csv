@@ -1,0 +1,25 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+1529,Minimum Suffix Flips,https://leetcode.com/problems/minimum-suffix-flips/description/,[String][Greedy],73.1%,Medium,0
+780,Reaching Points,https://leetcode.com/problems/reaching-points/description/,[Math],33.1%,Hard,0
+2038,Remove Colored Pieces if Both Neighbors are the Same Color,https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/description/,[Math][String][Greedy][Game Theory],62.8%,Medium,0
+1356,Sort Integers by The Number of 1 Bits,https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/description/,[Array][Bit Manipulation][Sorting][Counting],78.2%,Easy,0
+2068,Check Whether Two Strings are Almost Equivalent,https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/description/,[Hash Table][String][Counting],63.7%,Easy,0
+1200,Minimum Absolute Difference,https://leetcode.com/problems/minimum-absolute-difference/description/,[Array][Sorting],69.5%,Easy,0
+1328,Break a Palindrome,https://leetcode.com/problems/break-a-palindrome/description/,[String][Greedy],51.8%,Medium,0
+1481,Least Number of Unique Integers after K Removals,https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/description/,[Array][Hash Table][Greedy][Sorting][Counting],62.8%,Medium,0
+2273,Find Resultant Array After Removing Anagrams,https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/description/,[Array][Hash Table][String][Sorting],58.0%,Easy,0
+1167,Minimum Cost to Connect Sticks,https://leetcode.com/problems/minimum-cost-to-connect-sticks/description/,[Array][Greedy][Heap (Priority Queue)],69.7%,Medium,0
+1710,Maximum Units on a Truck,https://leetcode.com/problems/maximum-units-on-a-truck/description/,[Array][Greedy][Sorting],73.6%,Easy,0
+357,Count Numbers with Unique Digits,https://leetcode.com/problems/count-numbers-with-unique-digits/description/,[Math][Dynamic Programming][Backtracking],52.8%,Medium,0
+752,Open the Lock,https://leetcode.com/problems/open-the-lock/description/,[Array][Hash Table][String][Breadth-First Search],56.0%,Medium,0
+31,Next Permutation,https://leetcode.com/problems/next-permutation/description/,[Array][Two Pointers],39.5%,Medium,0
+2104,Sum of Subarray Ranges,https://leetcode.com/problems/sum-of-subarray-ranges/description/,[Array][Stack][Monotonic Stack],61.1%,Medium,0
+412,Fizz Buzz,https://leetcode.com/problems/fizz-buzz/description/,[Math][String][Simulation],71.8%,Easy,0
+263,Ugly Number,https://leetcode.com/problems/ugly-number/description/,[Math],42.0%,Easy,0
+560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/description/,[Array][Hash Table][Prefix Sum],43.4%,Medium,0
+349,Intersection of Two Arrays,https://leetcode.com/problems/intersection-of-two-arrays/description/,[Array][Hash Table][Two Pointers][Binary Search][Sorting],72.4%,Easy,0
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/description/,[Array][Sorting],47.1%,Medium,0
+22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/description/,[String][Dynamic Programming][Backtracking],74.2%,Medium,0
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/description/,[String][Dynamic Programming],33.7%,Medium,0
+70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/description/,[Math][Dynamic Programming][Memoization],52.8%,Easy,0
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/description/,[Array][Divide and Conquer][Dynamic Programming],50.6%,Medium,0

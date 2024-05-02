@@ -1,0 +1,36 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: learning-resource-app-deployment
+  labels:
+    app: learning-resource-app
+spec:
+  template:
+    metadata:
+      name: learning-resource-app-pod
+      labels:
+        app: learning-resource-app
+    spec:
+      containers:
+        - name: learning-resource-app-container
+          image: <IMAGE>
+          ports:
+            - containerPort: 8200
+          readinessProbe:
+            httpGet:
+              path: /ping
+              port: 8200
+            initialDelaySeconds: 10
+            periodSeconds: 5
+            failureThreshold: 8
+          livenessProbe:
+            httpGet:
+              path: /ping
+              port: 8200
+            initialDelaySeconds: 10
+            periodSeconds: 30
+            failureThreshold: 8
+  replicas: 1
+  selector:
+    matchLabels:
+      app: learning-resource-app

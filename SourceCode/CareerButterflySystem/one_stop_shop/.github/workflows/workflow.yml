@@ -1,0 +1,59 @@
+# name: CICD
+
+# on:
+#   push:
+#     branches:
+#       - main
+#     paths:
+#       - 'Dockerfile'
+#       - 'requirements.txt'
+#       - 'ui/**'
+#       - '.github/workflows/**'
+#       - '.k8s/**'
+
+# jobs:
+#  build:
+#    runs-on: ubuntu-latest
+#    steps:
+#       - name: Checkout main
+#         uses: actions/checkout@v4
+
+#       - name: Install doctl
+#         uses: digitalocean/action-doctl@v2
+#         with:
+#           token: ${{ secrets.DIGITALOCEAN_ACCESS_TOKEN }}
+
+#       - name: Build container image
+#         run: docker build -t registry.digitalocean.com/careerbutterfly/ui_service:$(echo $GITHUB_SHA | head -c7) .
+
+#       - name: Log in to DigitalOcean Container Registry with short-lived credentials
+#         run: doctl registry login --expiry-seconds 1200
+
+#       - name: Push image to DigitalOcean Container Registry
+#         run: docker push registry.digitalocean.com/careerbutterfly/ui_service:$(echo $GITHUB_SHA | head -c7)
+
+#       - name: Update deployment file
+#         run: TAG=$(echo $GITHUB_SHA | head -c7) && sed -i 's|<IMAGE>|registry.digitalocean.com/careerbutterfly/ui_service:'${TAG}'|' $GITHUB_WORKSPACE/.k8s/deployment.yml
+
+#       - name: Update secret file
+#         env:
+#           OPEN_AI_KEY: ${{ secrets.OPEN_AI_KEY }}
+#         run: B64_OPEN_AI_KEY=$(echo $OPEN_AI_KEY | base64) && sed -i 's|<OPEN_AI_KEY>|'${B64_OPEN_AI_KEY}'|' $GITHUB_WORKSPACE/.k8s/ui-secret.yml
+
+#       - name: Save DigitalOcean kubeconfig with short-lived credentials
+#         run: doctl kubernetes cluster kubeconfig save --expiry-seconds 600 c09e80b9-5a3d-4cf9-b3d7-e26f81bb8af5
+
+#       - name: Apply environment variables
+#         run: kubectl apply -f $GITHUB_WORKSPACE/.k8s/ui-config.yml
+
+#       - name: Apply secret variables
+#         run: kubectl apply -f $GITHUB_WORKSPACE/.k8s/ui-secret.yml
+
+#       - name: Apply ui service
+#         run: kubectl apply -f $GITHUB_WORKSPACE/ui-service.yml
+
+#       - name: Deploy to DigitalOcean Kubernetes
+#         run: kubectl apply -f $GITHUB_WORKSPACE/.k8s/deployment.yml
+
+#       - name: Verify deployment
+#         run: kubectl rollout status deployment/ui-app-deployment

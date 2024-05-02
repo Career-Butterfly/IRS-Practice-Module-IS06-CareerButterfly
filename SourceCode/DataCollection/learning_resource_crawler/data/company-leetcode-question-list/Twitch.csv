@@ -1,0 +1,13 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+929,Unique Email Addresses,https://leetcode.com/problems/unique-email-addresses/description/,[Array][Hash Table][String],67.1%,Easy,0
+419,Battleships in a Board,https://leetcode.com/problems/battleships-in-a-board/description/,[Array][Depth-First Search][Matrix],75.2%,Medium,0
+729,My Calendar I,https://leetcode.com/problems/my-calendar-i/description/,[Binary Search][Design][Segment Tree][Ordered Set],56.6%,Medium,0
+68,Text Justification,https://leetcode.com/problems/text-justification/description/,[Array][String][Simulation],42.7%,Hard,0
+41,First Missing Positive,https://leetcode.com/problems/first-missing-positive/description/,[Array][Hash Table],37.8%,Hard,0
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/description/,[Array][Depth-First Search][Breadth-First Search][Union Find][Matrix],58.5%,Medium,0
+146,LRU Cache,https://leetcode.com/problems/lru-cache/description/,[Hash Table][Linked List][Design][Doubly-Linked List],42.2%,Medium,0
+207,Course Schedule,https://leetcode.com/problems/course-schedule/description/,[Depth-First Search][Breadth-First Search][Graph][Topological Sort],46.6%,Medium,0
+17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/,[Hash Table][String][Backtracking],60.0%,Medium,0
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/description/,[String][Stack],40.5%,Easy,0
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/description/,[Hash Table][String][Sliding Window],34.5%,Medium,0
+1,Two Sum,https://leetcode.com/problems/two-sum/description/,[Array][Hash Table],52.0%,Easy,0

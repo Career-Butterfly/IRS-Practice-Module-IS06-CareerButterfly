@@ -1,0 +1,4 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+2858,Minimum Edge Reversals So Every Node Is Reachable,https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/description/,[Dynamic Programming][Depth-First Search][Breadth-First Search][Graph],58.6%,Hard,0
+2565,Subsequence With the Minimum Score,https://leetcode.com/problems/subsequence-with-the-minimum-score/description/,[Two Pointers][String][Binary Search],31.4%,Hard,0
+740,Delete and Earn,https://leetcode.com/problems/delete-and-earn/description/,[Array][Hash Table][Dynamic Programming],56.5%,Medium,0

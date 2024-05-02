@@ -1,0 +1,4 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+1235,Maximum Profit in Job Scheduling,https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/,[Array][Binary Search][Dynamic Programming][Sorting],54.8%,Hard,0
+621,Task Scheduler,https://leetcode.com/problems/task-scheduler/description/,[Array][Hash Table][Greedy][Sorting][Heap (Priority Queue)][Counting],58.3%,Medium,0
+399,Evaluate Division,https://leetcode.com/problems/evaluate-division/description/,[Array][Depth-First Search][Breadth-First Search][Union Find][Graph][Shortest Path],61.5%,Medium,0

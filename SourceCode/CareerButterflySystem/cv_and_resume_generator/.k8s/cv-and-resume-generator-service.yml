@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: cv-and-resume-generator-service
+spec:
+  type: ClusterIP
+  ports:
+    - targetPort: 8000
+      port: 8000
+  selector: 
+    app: cv-and-resume-generator-app

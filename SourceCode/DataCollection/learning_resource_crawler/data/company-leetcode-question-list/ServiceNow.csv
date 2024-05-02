@@ -1,0 +1,19 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+1698,Number of Distinct Substrings in a String,https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/description/,[String][Trie][Rolling Hash][Suffix Array][Hash Function],63.8%,Medium,0
+713,Subarray Product Less Than K,https://leetcode.com/problems/subarray-product-less-than-k/description/,[Array][Sliding Window],47.2%,Medium,0
+2063,Vowels of All Substrings,https://leetcode.com/problems/vowels-of-all-substrings/description/,[Math][String][Dynamic Programming][Combinatorics],54.2%,Medium,0
+1326,Minimum Number of Taps to Open to Water a Garden,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/description/,[Array][Dynamic Programming][Greedy],51.1%,Hard,0
+678,Valid Parenthesis String,https://leetcode.com/problems/valid-parenthesis-string/description/,[String][Dynamic Programming][Stack][Greedy],34.8%,Medium,0
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/description/,[Array][Hash Table][String][Sorting],68.2%,Medium,0
+387,First Unique Character in a String,https://leetcode.com/problems/first-unique-character-in-a-string/description/,[Hash Table][String][Queue][Counting],62.0%,Easy,0
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/description/,[Array][Two Pointers][Greedy][Sorting][Heap (Priority Queue)][Prefix Sum],51.1%,Medium,0
+22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/description/,[String][Dynamic Programming][Backtracking],74.2%,Medium,0
+706,Design HashMap,https://leetcode.com/problems/design-hashmap/description/,[Array][Hash Table][Linked List][Design][Hash Function],65.7%,Easy,0
+129,Sum Root to Leaf Numbers,https://leetcode.com/problems/sum-root-to-leaf-numbers/description/,[Tree][Depth-First Search][Binary Tree],63.3%,Medium,0
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/description/,[Array][Two Pointers][Dynamic Programming][Stack][Monotonic Stack],60.8%,Hard,0
+103,Binary Tree Zigzag Level Order Traversal,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/,[Tree][Breadth-First Search][Binary Tree],58.6%,Medium,0
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/description/,[String][Stack],40.5%,Easy,0
+33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/description/,[Array][Binary Search],40.5%,Medium,0
+283,Move Zeroes,https://leetcode.com/problems/move-zeroes/description/,[Array][Two Pointers],61.6%,Easy,0
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/,[Array][Dynamic Programming],53.5%,Easy,0
+1,Two Sum,https://leetcode.com/problems/two-sum/description/,[Array][Hash Table],52.0%,Easy,0

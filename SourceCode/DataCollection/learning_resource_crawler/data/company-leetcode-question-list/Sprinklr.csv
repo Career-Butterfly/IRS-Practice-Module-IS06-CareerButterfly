@@ -1,0 +1,7 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+1981,Minimize the Difference Between Target and Chosen Elements,https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements/description/,[Array][Dynamic Programming][Matrix],34.1%,Medium,0
+2897,Apply Operations on Array to Maximize Sum of Squares,https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/description/,[Array][Hash Table][Greedy][Bit Manipulation],46.6%,Hard,0
+2846,Minimum Edge Weight Equilibrium Queries in a Tree,https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/description/,[Array][Tree][Graph][Strongly Connected Component],43.4%,Hard,0
+2867,Count Valid Paths in a Tree,https://leetcode.com/problems/count-valid-paths-in-a-tree/description/,[Math][Dynamic Programming][Tree][Depth-First Search][Number Theory],34.5%,Hard,0
+763,Partition Labels,https://leetcode.com/problems/partition-labels/description/,[Hash Table][Two Pointers][String][Greedy],79.8%,Medium,0
+380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/description/,[Array][Hash Table][Math][Design][Randomized],54.4%,Medium,0

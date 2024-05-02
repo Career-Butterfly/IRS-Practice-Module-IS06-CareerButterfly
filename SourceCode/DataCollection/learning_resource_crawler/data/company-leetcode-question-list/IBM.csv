@@ -1,0 +1,20 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+636,Exclusive Time of Functions,https://leetcode.com/problems/exclusive-time-of-functions/description/,[Array][Stack],62.2%,Medium,0
+1012,Numbers With Repeated Digits,https://leetcode.com/problems/numbers-with-repeated-digits/description/,[Math][Dynamic Programming],42.0%,Hard,0
+1208,Get Equal Substrings Within Budget,https://leetcode.com/problems/get-equal-substrings-within-budget/description/,[String][Binary Search][Sliding Window][Prefix Sum],50.7%,Medium,0
+1529,Minimum Suffix Flips,https://leetcode.com/problems/minimum-suffix-flips/description/,[String][Greedy],73.1%,Medium,0
+2964,Number of Divisible Triplet Sums,https://leetcode.com/problems/number-of-divisible-triplet-sums/description/,[Array][Hash Table],68.1%,Medium,0
+1492,The kth Factor of n,https://leetcode.com/problems/the-kth-factor-of-n/description/,[Math][Number Theory],66.8%,Medium,0
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/description/,[Array][Two Pointers][Greedy][Sorting][Heap (Priority Queue)][Prefix Sum],51.1%,Medium,0
+2491,Divide Players Into Teams of Equal Skill,https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/description/,[Array][Hash Table][Two Pointers][Sorting],59.4%,Medium,0
+2598,Smallest Missing Non-negative Integer After Operations,https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/description/,[Array][Hash Table][Math][Greedy],39.0%,Medium,0
+12,Integer to Roman,https://leetcode.com/problems/integer-to-roman/description/,[Hash Table][Math][String],64.3%,Medium,0
+412,Fizz Buzz,https://leetcode.com/problems/fizz-buzz/description/,[Math][String][Simulation],71.8%,Easy,0
+456,132 Pattern,https://leetcode.com/problems/132-pattern/description/,[Array][Binary Search][Stack][Monotonic Stack][Ordered Set],33.7%,Medium,0
+13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/description/,[Hash Table][Math][String],60.8%,Easy,0
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/,[Array][Dynamic Programming],53.5%,Easy,0
+334,Increasing Triplet Subsequence,https://leetcode.com/problems/increasing-triplet-subsequence/description/,[Array][Greedy],40.2%,Medium,0
+300,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/description/,[Array][Binary Search][Dynamic Programming],55.0%,Medium,0
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/description/,[String][Trie],42.4%,Easy,0
+17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/,[Hash Table][String][Backtracking],60.0%,Medium,0
+1,Two Sum,https://leetcode.com/problems/two-sum/description/,[Array][Hash Table],52.0%,Easy,0

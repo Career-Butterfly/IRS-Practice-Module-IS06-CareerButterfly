@@ -1,0 +1,4 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+1993,Operations on Tree,https://leetcode.com/problems/operations-on-tree/description/,[Array][Hash Table][Tree][Depth-First Search][Breadth-First Search][Design],45.5%,Medium,0
+2359,Find Closest Node to Given Two Nodes,https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/,[Depth-First Search][Graph],45.6%,Medium,0
+2360,Longest Cycle in a Graph,https://leetcode.com/problems/longest-cycle-in-a-graph/description/,[Depth-First Search][Graph][Topological Sort],50.0%,Hard,0

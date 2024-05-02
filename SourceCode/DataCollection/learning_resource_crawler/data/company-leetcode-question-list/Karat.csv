@@ -1,0 +1,5 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+2133,Check if Every Row and Column Contains All Numbers,https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/description/,[Array][Hash Table][Matrix],51.7%,Easy,0
+1160,Find Words That Can Be Formed by Characters,https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/description/,[Array][Hash Table][String],70.7%,Easy,0
+68,Text Justification,https://leetcode.com/problems/text-justification/description/,[Array][String][Simulation],42.7%,Hard,0
+207,Course Schedule,https://leetcode.com/problems/course-schedule/description/,[Depth-First Search][Breadth-First Search][Graph][Topological Sort],46.6%,Medium,0

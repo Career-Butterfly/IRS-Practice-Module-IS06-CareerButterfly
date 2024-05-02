@@ -1,0 +1,5 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+1524,Number of Sub-arrays With Odd Sum,https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/description/,[Array][Math][Dynamic Programming][Prefix Sum],43.5%,Medium,0
+1654,Minimum Jumps to Reach Home,https://leetcode.com/problems/minimum-jumps-to-reach-home/description/,[Array][Dynamic Programming][Breadth-First Search],29.3%,Medium,0
+1488,Avoid Flood in The City,https://leetcode.com/problems/avoid-flood-in-the-city/description/,[Array][Hash Table][Binary Search][Greedy][Heap (Priority Queue)],27.0%,Medium,0
+1535,Find the Winner of an Array Game,https://leetcode.com/problems/find-the-winner-of-an-array-game/description/,[Array][Simulation],57.2%,Medium,0

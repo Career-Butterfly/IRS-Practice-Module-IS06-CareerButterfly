@@ -1,0 +1,8 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+1375,Number of Times Binary String Is Prefix-Aligned,https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/description/,[Array],65.8%,Medium,0
+75,Sort Colors,https://leetcode.com/problems/sort-colors/description/,[Array][Two Pointers][Sorting],61.7%,Medium,0
+41,First Missing Positive,https://leetcode.com/problems/first-missing-positive/description/,[Array][Hash Table],37.8%,Hard,0
+31,Next Permutation,https://leetcode.com/problems/next-permutation/description/,[Array][Two Pointers],39.5%,Medium,0
+22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/description/,[String][Dynamic Programming][Backtracking],74.2%,Medium,0
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/description/,[String][Dynamic Programming],33.7%,Medium,0
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/description/,[Hash Table][String][Sliding Window],34.5%,Medium,0

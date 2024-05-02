@@ -1,0 +1,6 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+766,Toeplitz Matrix,https://leetcode.com/problems/toeplitz-matrix/description/,[Array][Matrix],68.8%,Easy,0
+509,Fibonacci Number,https://leetcode.com/problems/fibonacci-number/description/,[Math][Dynamic Programming][Recursion][Memoization],70.8%,Easy,0
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/,[Array][Dynamic Programming],53.5%,Easy,0
+100,Same Tree,https://leetcode.com/problems/same-tree/description/,[Tree][Depth-First Search][Breadth-First Search][Binary Tree],61.7%,Easy,0
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/description/,[Array][Divide and Conquer][Dynamic Programming],50.6%,Medium,0

@@ -1,0 +1,52 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: job-recommender-app-deployment
+  labels:
+    app: job-recommender-app
+spec:
+  template:
+    metadata:
+      name: job-recommender-app-pod
+      labels:
+        app: job-recommender-app
+    spec:
+      affinity:
+        podAntiAffinity:
+          preferredDuringSchedulingIgnoredDuringExecution:
+            - weight: 100
+              podAffinityTerm:
+                labelSelector:
+                  matchExpressions:
+                    - key: app
+                      operator: In
+                      values:
+                        - job-recommender-app
+                namespaces:
+                  - default
+                topologyKey: kubernetes.io/hostname
+      containers:
+        - name: job-recommender-app-container
+          image: <IMAGE>
+          ports:
+            - containerPort: 4000
+          readinessProbe:
+            httpGet:
+              path: /ping
+              port: 4000
+            initialDelaySeconds: 10
+            periodSeconds: 5
+            failureThreshold: 8
+          livenessProbe:
+            httpGet:
+              path: /ping
+              port: 4000
+            initialDelaySeconds: 10
+            periodSeconds: 30
+            failureThreshold: 8
+
+
+  replicas: 1
+  selector:
+    matchLabels:
+      app: job-recommender-app

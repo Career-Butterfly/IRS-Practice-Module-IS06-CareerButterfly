@@ -1,0 +1,23 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+2332,The Latest Time to Catch a Bus,https://leetcode.com/problems/the-latest-time-to-catch-a-bus/description/,[Array][Two Pointers][Binary Search][Sorting],26.2%,Medium,0
+2164,Sort Even and Odd Indices Independently,https://leetcode.com/problems/sort-even-and-odd-indices-independently/description/,[Array][Sorting],62.8%,Easy,0
+165,Compare Version Numbers,https://leetcode.com/problems/compare-version-numbers/description/,[Two Pointers][String],36.7%,Medium,0
+283,Move Zeroes,https://leetcode.com/problems/move-zeroes/description/,[Array][Two Pointers],61.6%,Easy,0
+1823,Find the Winner of the Circular Game,https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/,[Array][Math][Recursion][Queue][Simulation],78.2%,Medium,0
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/description/,[Array][Hash Table][String][Sorting],68.2%,Medium,0
+70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/description/,[Math][Dynamic Programming][Memoization],52.8%,Easy,0
+290,Word Pattern,https://leetcode.com/problems/word-pattern/description/,[Hash Table][String],41.9%,Easy,0
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/,[Array][Dynamic Programming],53.5%,Easy,0
+394,Decode String,https://leetcode.com/problems/decode-string/description/,[String][Stack][Recursion],59.0%,Medium,0
+39,Combination Sum,https://leetcode.com/problems/combination-sum/description/,[Array][Backtracking],71.0%,Medium,0
+202,Happy Number,https://leetcode.com/problems/happy-number/description/,[Hash Table][Math][Two Pointers],55.9%,Easy,0
+345,Reverse Vowels of a String,https://leetcode.com/problems/reverse-vowels-of-a-string/description/,[Two Pointers][String],52.6%,Easy,0
+189,Rotate Array,https://leetcode.com/problems/rotate-array/description/,[Array][Math][Two Pointers],40.3%,Medium,0
+287,Find the Duplicate Number,https://leetcode.com/problems/find-the-duplicate-number/description/,[Array][Two Pointers][Binary Search][Bit Manipulation],59.4%,Medium,0
+54,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/description/,[Array][Matrix][Simulation],48.9%,Medium,0
+48,Rotate Image,https://leetcode.com/problems/rotate-image/description/,[Array][Math][Matrix],73.8%,Medium,0
+17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/,[Hash Table][String][Backtracking],60.0%,Medium,0
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/description/,[Array][Two Pointers][Dynamic Programming][Stack][Monotonic Stack],60.8%,Hard,0
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/description/,[String][Stack],40.5%,Easy,0
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/description/,[String][Trie],42.4%,Easy,0
+1,Two Sum,https://leetcode.com/problems/two-sum/description/,[Array][Hash Table],52.0%,Easy,0

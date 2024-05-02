@@ -1,0 +1,9 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+2835,Minimum Operations to Form Subsequence With Target Sum,https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum/description/,[Array][Greedy][Bit Manipulation],31.7%,Hard,0
+2742,Painting the Walls,https://leetcode.com/problems/painting-the-walls/description/,[Array][Dynamic Programming],51.1%,Hard,0
+193,Valid Phone Numbers,https://leetcode.com/problems/valid-phone-numbers/description/,[Shell],25.8%,Easy,0
+21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/description/,[Linked List][Recursion],64.0%,Easy,0
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/,[Array][Dynamic Programming],53.5%,Easy,0
+122,Best Time to Buy and Sell Stock II,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/,[Array][Dynamic Programming][Greedy],66.0%,Medium,0
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/description/,[Array][Two Pointers][Dynamic Programming][Stack][Monotonic Stack],60.8%,Hard,0
+55,Jump Game,https://leetcode.com/problems/jump-game/description/,[Array][Dynamic Programming][Greedy],38.5%,Medium,0

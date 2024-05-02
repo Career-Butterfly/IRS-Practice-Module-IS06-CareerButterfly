@@ -1,0 +1,4 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+150,Evaluate Reverse Polish Notation,https://leetcode.com/problems/evaluate-reverse-polish-notation/description/,[Array][Math][Stack],51.0%,Medium,0
+509,Fibonacci Number,https://leetcode.com/problems/fibonacci-number/description/,[Math][Dynamic Programming][Recursion][Memoization],70.8%,Easy,0
+242,Valid Anagram,https://leetcode.com/problems/valid-anagram/description/,[Hash Table][String][Sorting],64.3%,Easy,0

@@ -1,0 +1,8 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+446,Arithmetic Slices II - Subsequence,https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/,[Array][Dynamic Programming],54.6%,Hard,0
+363,Max Sum of Rectangle No Larger Than K,https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/description/,[Array][Binary Search][Matrix][Prefix Sum][Ordered Set],44.1%,Hard,0
+126,Word Ladder II,https://leetcode.com/problems/word-ladder-ii/description/,[Hash Table][String][Backtracking][Breadth-First Search],27.3%,Hard,0
+907,Sum of Subarray Minimums,https://leetcode.com/problems/sum-of-subarray-minimums/description/,[Array][Dynamic Programming][Stack][Monotonic Stack],37.4%,Medium,0
+279,Perfect Squares,https://leetcode.com/problems/perfect-squares/description/,[Math][Dynamic Programming][Breadth-First Search],54.7%,Medium,0
+542,01 Matrix,https://leetcode.com/problems/01-matrix/description/,[Array][Dynamic Programming][Breadth-First Search][Matrix],48.2%,Medium,0
+54,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/description/,[Array][Matrix][Simulation],48.9%,Medium,0

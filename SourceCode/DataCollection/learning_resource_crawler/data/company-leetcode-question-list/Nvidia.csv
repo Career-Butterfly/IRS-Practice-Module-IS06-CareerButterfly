@@ -1,0 +1,38 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+1046,Last Stone Weight,https://leetcode.com/problems/last-stone-weight/description/,[Array][Heap (Priority Queue)],65.3%,Easy,0
+2571,Minimum Operations to Reduce an Integer to 0,https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/description/,[Dynamic Programming][Greedy][Bit Manipulation],53.7%,Medium,0
+1664,Ways to Make a Fair Array,https://leetcode.com/problems/ways-to-make-a-fair-array/description/,[Array][Prefix Sum],63.3%,Medium,0
+146,LRU Cache,https://leetcode.com/problems/lru-cache/description/,[Hash Table][Linked List][Design][Doubly-Linked List],42.2%,Medium,0
+384,Shuffle an Array,https://leetcode.com/problems/shuffle-an-array/description/,[Array][Math][Randomized],58.2%,Medium,0
+1146,Snapshot Array,https://leetcode.com/problems/snapshot-array/description/,[Array][Hash Table][Binary Search][Design],37.1%,Medium,0
+2816,Double a Number Represented as a Linked List,https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/description/,[Linked List][Math][Stack],49.3%,Medium,0
+1319,Number of Operations to Make Network Connected,https://leetcode.com/problems/number-of-operations-to-make-network-connected/description/,[Depth-First Search][Breadth-First Search][Union Find][Graph],62.6%,Medium,0
+2433,Find The Original Array of Prefix Xor,https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/,[Array][Bit Manipulation],88.2%,Medium,0
+1570,Dot Product of Two Sparse Vectors,https://leetcode.com/problems/dot-product-of-two-sparse-vectors/description/,[Array][Hash Table][Two Pointers][Design],89.9%,Medium,0
+221,Maximal Square,https://leetcode.com/problems/maximal-square/description/,[Array][Dynamic Programming][Matrix],46.3%,Medium,0
+921,Minimum Add to Make Parentheses Valid,https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/,[String][Stack][Greedy],75.1%,Medium,0
+188,Best Time to Buy and Sell Stock IV,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/,[Array][Dynamic Programming],42.2%,Hard,0
+160,Intersection of Two Linked Lists,https://leetcode.com/problems/intersection-of-two-linked-lists/description/,[Hash Table][Linked List][Two Pointers],57.0%,Easy,0
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/,[Array][Dynamic Programming],53.5%,Easy,0
+509,Fibonacci Number,https://leetcode.com/problems/fibonacci-number/description/,[Math][Dynamic Programming][Recursion][Memoization],70.8%,Easy,0
+190,Reverse Bits,https://leetcode.com/problems/reverse-bits/description/,[Divide and Conquer][Bit Manipulation],57.9%,Easy,0
+48,Rotate Image,https://leetcode.com/problems/rotate-image/description/,[Array][Math][Matrix],73.8%,Medium,0
+540,Single Element in a Sorted Array,https://leetcode.com/problems/single-element-in-a-sorted-array/description/,[Array][Binary Search],59.0%,Medium,0
+92,Reverse Linked List II,https://leetcode.com/problems/reverse-linked-list-ii/description/,[Linked List],47.5%,Medium,0
+274,H-Index,https://leetcode.com/problems/h-index/description/,[Array][Sorting][Counting Sort],38.8%,Medium,0
+138,Copy List with Random Pointer,https://leetcode.com/problems/copy-list-with-random-pointer/description/,[Hash Table][Linked List],55.5%,Medium,0
+2,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/description/,[Linked List][Math][Recursion],42.4%,Medium,0
+287,Find the Duplicate Number,https://leetcode.com/problems/find-the-duplicate-number/description/,[Array][Two Pointers][Binary Search][Bit Manipulation],59.4%,Medium,0
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/description/,[Array][Two Pointers][Dynamic Programming][Stack][Monotonic Stack],60.8%,Hard,0
+215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/description/,[Array][Divide and Conquer][Sorting][Heap (Priority Queue)][Quickselect],66.8%,Medium,0
+98,Validate Binary Search Tree,https://leetcode.com/problems/validate-binary-search-tree/description/,[Tree][Depth-First Search][Binary Search Tree][Binary Tree],32.8%,Medium,0
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/description/,[Array][Sorting],47.1%,Medium,0
+268,Missing Number,https://leetcode.com/problems/missing-number/description/,[Array][Hash Table][Math][Binary Search][Bit Manipulation][Sorting],66.4%,Easy,0
+19,Remove Nth Node From End of List,https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/,[Linked List][Two Pointers],44.8%,Medium,0
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/description/,[String][Stack],40.5%,Easy,0
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/description/,[Hash Table][String][Sliding Window],34.5%,Medium,0
+49,Group Anagrams,https://leetcode.com/problems/group-anagrams/description/,[Array][Hash Table][String][Sorting],68.2%,Medium,0
+70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/description/,[Math][Dynamic Programming][Memoization],52.8%,Easy,0
+169,Majority Element,https://leetcode.com/problems/majority-element/description/,[Array][Hash Table][Divide and Conquer][Sorting][Counting],64.7%,Easy,0
+15,3Sum,https://leetcode.com/problems/3sum/description/,[Array][Two Pointers][Sorting],34.2%,Medium,0
+1,Two Sum,https://leetcode.com/problems/two-sum/description/,[Array][Hash Table],52.0%,Easy,0

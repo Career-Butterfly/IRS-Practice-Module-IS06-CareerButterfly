@@ -1,0 +1,22 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+127,Word Ladder,https://leetcode.com/problems/word-ladder/description/,[Hash Table][String][Breadth-First Search],38.8%,Hard,0
+2101,Detonate the Maximum Bombs,https://leetcode.com/problems/detonate-the-maximum-bombs/description/,[Array][Math][Depth-First Search][Breadth-First Search][Graph][Geometry],48.8%,Medium,0
+317,Shortest Distance from All Buildings,https://leetcode.com/problems/shortest-distance-from-all-buildings/description/,[Array][Breadth-First Search][Matrix],43.0%,Hard,0
+697,Degree of an Array,https://leetcode.com/problems/degree-of-an-array/description/,[Array][Hash Table],56.4%,Easy,0
+63,Unique Paths II,https://leetcode.com/problems/unique-paths-ii/description/,[Array][Dynamic Programming][Matrix],41.4%,Medium,0
+1347,Minimum Number of Steps to Make Two Strings Anagram,https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/description/,[Hash Table][String][Counting],82.0%,Medium,0
+1268,Search Suggestions System,https://leetcode.com/problems/search-suggestions-system/description/,[Array][String][Binary Search][Trie][Sorting][Heap (Priority Queue)],65.3%,Medium,0
+387,First Unique Character in a String,https://leetcode.com/problems/first-unique-character-in-a-string/description/,[Hash Table][String][Queue][Counting],62.0%,Easy,0
+329,Longest Increasing Path in a Matrix,https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/,[Array][Dynamic Programming][Depth-First Search][Breadth-First Search][Graph][Topological Sort][Memoization][Matrix],53.4%,Hard,0
+212,Word Search II,https://leetcode.com/problems/word-search-ii/description/,[Array][String][Backtracking][Trie][Matrix],36.2%,Hard,0
+394,Decode String,https://leetcode.com/problems/decode-string/description/,[String][Stack][Recursion],59.0%,Medium,0
+733,Flood Fill,https://leetcode.com/problems/flood-fill/description/,[Array][Depth-First Search][Breadth-First Search][Matrix],63.6%,Easy,0
+380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/description/,[Array][Hash Table][Math][Design][Randomized],54.4%,Medium,0
+34,Find First and Last Position of Element in Sorted Array,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/,[Array][Binary Search],44.0%,Medium,0
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/description/,[Array][Two Pointers][Dynamic Programming][Stack][Monotonic Stack],60.8%,Hard,0
+139,Word Break,https://leetcode.com/problems/word-break/description/,[Array][Hash Table][String][Dynamic Programming][Trie][Memoization],46.6%,Medium,0
+31,Next Permutation,https://leetcode.com/problems/next-permutation/description/,[Array][Two Pointers],39.5%,Medium,0
+36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/description/,[Array][Hash Table][Matrix],59.3%,Medium,0
+199,Binary Tree Right Side View,https://leetcode.com/problems/binary-tree-right-side-view/description/,[Tree][Depth-First Search][Breadth-First Search][Binary Tree],62.8%,Medium,0
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/description/,[Array][Sorting],47.1%,Medium,0
+128,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/description/,[Array][Hash Table][Union Find],47.3%,Medium,0

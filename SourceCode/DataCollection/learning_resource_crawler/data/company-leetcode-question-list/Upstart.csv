@@ -1,0 +1,4 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+71,Simplify Path,https://leetcode.com/problems/simplify-path/description/,[String][Stack],41.9%,Medium,0
+31,Next Permutation,https://leetcode.com/problems/next-permutation/description/,[Array][Two Pointers],39.5%,Medium,0
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/description/,[Array][Divide and Conquer][Dynamic Programming],50.6%,Medium,0

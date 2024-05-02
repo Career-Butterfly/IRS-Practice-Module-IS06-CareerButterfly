@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: ui-app-config
+data:
+  CV_GENERATOR: "http://cv-and-resume-generator-service:8000/generate_cv"
+  RESUME_GENERATOR: "http://cv-and-resume-generator-service:8000/generate_resume"
+  JOB_RECOMMENDER: "http://job-recommender-service:4000"
+  LEARNING_RESOURCE_RECOMMENDER: "http://learning-resource-service:8200"

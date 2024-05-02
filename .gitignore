@@ -1,0 +1,4 @@
+.pyenv
+.DS_Store
+*.log
+*.pyc

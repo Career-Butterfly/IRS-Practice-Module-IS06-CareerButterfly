@@ -1,0 +1,14 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+741,Cherry Pickup,https://leetcode.com/problems/cherry-pickup/description/,[Array][Dynamic Programming][Matrix],36.7%,Hard,0
+1380,Lucky Numbers in a Matrix,https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/,[Array][Matrix],71.3%,Easy,0
+48,Rotate Image,https://leetcode.com/problems/rotate-image/description/,[Array][Math][Matrix],73.8%,Medium,0
+909,Snakes and Ladders,https://leetcode.com/problems/snakes-and-ladders/description/,[Array][Breadth-First Search][Matrix],43.8%,Medium,0
+394,Decode String,https://leetcode.com/problems/decode-string/description/,[String][Stack][Recursion],59.0%,Medium,0
+198,House Robber,https://leetcode.com/problems/house-robber/description/,[Array][Dynamic Programming],50.9%,Medium,0
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/description/,[String][Dynamic Programming],33.7%,Medium,0
+54,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/description/,[Array][Matrix][Simulation],48.9%,Medium,0
+412,Fizz Buzz,https://leetcode.com/problems/fizz-buzz/description/,[Math][String][Simulation],71.8%,Easy,0
+202,Happy Number,https://leetcode.com/problems/happy-number/description/,[Hash Table][Math][Two Pointers],55.9%,Easy,0
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/description/,[Array][Sorting],47.1%,Medium,0
+15,3Sum,https://leetcode.com/problems/3sum/description/,[Array][Two Pointers][Sorting],34.2%,Medium,0
+1,Two Sum,https://leetcode.com/problems/two-sum/description/,[Array][Hash Table],52.0%,Easy,0

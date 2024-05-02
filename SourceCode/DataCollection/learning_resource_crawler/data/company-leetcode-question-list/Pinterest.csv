@@ -1,0 +1,19 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+2302,Count Subarrays With Score Less Than K,https://leetcode.com/problems/count-subarrays-with-score-less-than-k/description/,[Array][Binary Search][Sliding Window][Prefix Sum],53.9%,Hard,0
+38,Count and Say,https://leetcode.com/problems/count-and-say/description/,[String],54.5%,Medium,0
+1235,Maximum Profit in Job Scheduling,https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/,[Array][Binary Search][Dynamic Programming][Sorting],54.8%,Hard,0
+719,Find K-th Smallest Pair Distance,https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/,[Array][Two Pointers][Binary Search][Sorting],37.7%,Hard,0
+1055,Shortest Way to Form String,https://leetcode.com/problems/shortest-way-to-form-string/description/,[Two Pointers][String][Greedy],60.0%,Medium,0
+1293,Shortest Path in a Grid with Obstacles Elimination,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/description/,[Array][Breadth-First Search][Matrix],45.2%,Hard,0
+465,Optimal Account Balancing,https://leetcode.com/problems/optimal-account-balancing/description/,[Array][Dynamic Programming][Backtracking][Bit Manipulation][Bitmask],49.5%,Hard,0
+767,Reorganize String,https://leetcode.com/problems/reorganize-string/description/,[Hash Table][String][Greedy][Sorting][Heap (Priority Queue)][Counting],54.5%,Medium,0
+2232,Minimize Result by Adding Parentheses to Expression,https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression/description/,[String][Enumeration],66.9%,Medium,0
+642,Design Search Autocomplete System,https://leetcode.com/problems/design-search-autocomplete-system/description/,[String][Design][Trie][Data Stream],48.9%,Hard,0
+1306,Jump Game III,https://leetcode.com/problems/jump-game-iii/description/,[Array][Depth-First Search][Breadth-First Search],64.6%,Medium,0
+980,Unique Paths III,https://leetcode.com/problems/unique-paths-iii/description/,[Array][Backtracking][Bit Manipulation][Matrix],81.7%,Hard,0
+295,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/description/,[Two Pointers][Design][Sorting][Heap (Priority Queue)][Data Stream],51.8%,Hard,0
+443,String Compression,https://leetcode.com/problems/string-compression/description/,[Two Pointers][String],54.0%,Medium,0
+253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/description/,[Array][Two Pointers][Greedy][Sorting][Heap (Priority Queue)][Prefix Sum],51.1%,Medium,0
+63,Unique Paths II,https://leetcode.com/problems/unique-paths-ii/description/,[Array][Dynamic Programming][Matrix],41.4%,Medium,0
+392,Is Subsequence,https://leetcode.com/problems/is-subsequence/description/,[Two Pointers][String][Dynamic Programming],47.9%,Easy,0
+17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/,[Hash Table][String][Backtracking],60.0%,Medium,0

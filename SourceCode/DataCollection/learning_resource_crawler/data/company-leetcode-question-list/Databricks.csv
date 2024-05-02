@@ -1,0 +1,11 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+751,IP to CIDR,https://leetcode.com/problems/ip-to-cidr/description/,[String][Bit Manipulation],54.8%,Medium,0
+362,Design Hit Counter,https://leetcode.com/problems/design-hit-counter/description/,[Array][Binary Search][Design][Queue][Data Stream],68.6%,Medium,0
+348,Design Tic-Tac-Toe,https://leetcode.com/problems/design-tic-tac-toe/description/,[Array][Hash Table][Design][Matrix][Simulation],57.9%,Medium,0
+2251,Number of Flowers in Full Bloom,https://leetcode.com/problems/number-of-flowers-in-full-bloom/description/,[Array][Hash Table][Binary Search][Sorting][Prefix Sum][Ordered Set],56.8%,Hard,0
+1244,Design A Leaderboard,https://leetcode.com/problems/design-a-leaderboard/description/,[Hash Table][Design][Sorting],67.9%,Medium,0
+1146,Snapshot Array,https://leetcode.com/problems/snapshot-array/description/,[Array][Hash Table][Binary Search][Design],37.1%,Medium,0
+352,Data Stream as Disjoint Intervals,https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/,[Binary Search][Design][Ordered Set],60.0%,Hard,0
+213,House Robber II,https://leetcode.com/problems/house-robber-ii/description/,[Array][Dynamic Programming],41.8%,Medium,0
+1235,Maximum Profit in Job Scheduling,https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/,[Array][Binary Search][Dynamic Programming][Sorting],54.8%,Hard,0
+198,House Robber,https://leetcode.com/problems/house-robber/description/,[Array][Dynamic Programming],50.9%,Medium,0

@@ -1,0 +1,5 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+1334,Find the City With the Smallest Number of Neighbors at a Threshold Distance,https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/,[Dynamic Programming][Graph][Shortest Path],59.4%,Medium,0
+1963,Minimum Number of Swaps to Make the String Balanced,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/description/,[Two Pointers][String][Stack][Greedy],71.0%,Medium,0
+1011,Capacity To Ship Packages Within D Days,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/,[Array][Binary Search],69.1%,Medium,0
+45,Jump Game II,https://leetcode.com/problems/jump-game-ii/description/,[Array][Dynamic Programming][Greedy],40.3%,Medium,0

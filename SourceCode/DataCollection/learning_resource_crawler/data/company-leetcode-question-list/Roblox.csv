@@ -1,0 +1,10 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+362,Design Hit Counter,https://leetcode.com/problems/design-hit-counter/description/,[Array][Binary Search][Design][Queue][Data Stream],68.6%,Medium,0
+2468,Split Message Based on Limit,https://leetcode.com/problems/split-message-based-on-limit/description/,[String][Binary Search],43.5%,Hard,0
+1472,Design Browser History,https://leetcode.com/problems/design-browser-history/description/,[Array][Linked List][Stack][Design][Doubly-Linked List][Data Stream],77.5%,Medium,0
+767,Reorganize String,https://leetcode.com/problems/reorganize-string/description/,[Hash Table][String][Greedy][Sorting][Heap (Priority Queue)][Counting],54.5%,Medium,0
+1419,Minimum Number of Frogs Croaking,https://leetcode.com/problems/minimum-number-of-frogs-croaking/description/,[String][Counting],50.2%,Medium,0
+2038,Remove Colored Pieces if Both Neighbors are the Same Color,https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/description/,[Math][String][Greedy][Game Theory],62.8%,Medium,0
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/description/,[Array][Sorting],47.1%,Medium,0
+41,First Missing Positive,https://leetcode.com/problems/first-missing-positive/description/,[Array][Hash Table],37.8%,Hard,0
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/description/,[String][Stack],40.5%,Easy,0

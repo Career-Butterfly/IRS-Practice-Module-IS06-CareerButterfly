@@ -1,0 +1,6 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+2571,Minimum Operations to Reduce an Integer to 0,https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/description/,[Dynamic Programming][Greedy][Bit Manipulation],53.7%,Medium,0
+43,Multiply Strings,https://leetcode.com/problems/multiply-strings/description/,[Math][String][Simulation],40.1%,Medium,0
+212,Word Search II,https://leetcode.com/problems/word-search-ii/description/,[Array][String][Backtracking][Trie][Matrix],36.2%,Hard,0
+1268,Search Suggestions System,https://leetcode.com/problems/search-suggestions-system/description/,[Array][String][Binary Search][Trie][Sorting][Heap (Priority Queue)],65.3%,Medium,0
+706,Design HashMap,https://leetcode.com/problems/design-hashmap/description/,[Array][Hash Table][Linked List][Design][Hash Function],65.7%,Easy,0

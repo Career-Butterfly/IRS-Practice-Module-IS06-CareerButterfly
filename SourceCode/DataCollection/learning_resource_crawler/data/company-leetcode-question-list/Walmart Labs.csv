@@ -1,0 +1,28 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+716,Max Stack,https://leetcode.com/problems/max-stack/description/,[Linked List][Stack][Design][Doubly-Linked List][Ordered Set],45.0%,Hard,0
+2291,Maximum Profit From Trading Stocks,https://leetcode.com/problems/maximum-profit-from-trading-stocks/description/,[Array][Dynamic Programming],45.0%,Medium,0
+298,Binary Tree Longest Consecutive Sequence,https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/description/,[Tree][Depth-First Search][Binary Tree],53.4%,Medium,0
+1052,Grumpy Bookstore Owner,https://leetcode.com/problems/grumpy-bookstore-owner/description/,[Array][Sliding Window],57.0%,Medium,0
+2472,Maximum Number of Non-overlapping Palindrome Substrings,https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/description/,[String][Dynamic Programming],39.6%,Hard,0
+697,Degree of an Array,https://leetcode.com/problems/degree-of-an-array/description/,[Array][Hash Table],56.4%,Easy,0
+460,LFU Cache,https://leetcode.com/problems/lfu-cache/description/,[Hash Table][Linked List][Design][Doubly-Linked List],44.0%,Hard,0
+863,All Nodes Distance K in Binary Tree,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/,[Tree][Depth-First Search][Breadth-First Search][Binary Tree],64.3%,Medium,0
+117,Populating Next Right Pointers in Each Node II,https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/,[Linked List][Tree][Depth-First Search][Breadth-First Search][Binary Tree],52.1%,Medium,0
+841,Keys and Rooms,https://leetcode.com/problems/keys-and-rooms/description/,[Depth-First Search][Breadth-First Search][Graph],72.7%,Medium,0
+409,Longest Palindrome,https://leetcode.com/problems/longest-palindrome/description/,[Hash Table][String][Greedy],53.9%,Easy,0
+116,Populating Next Right Pointers in Each Node,https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/,[Linked List][Tree][Depth-First Search][Breadth-First Search][Binary Tree],62.3%,Medium,0
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/description/,[Hash Table][String][Sliding Window],34.5%,Medium,0
+146,LRU Cache,https://leetcode.com/problems/lru-cache/description/,[Hash Table][Linked List][Design][Doubly-Linked List],42.2%,Medium,0
+204,Count Primes,https://leetcode.com/problems/count-primes/description/,[Array][Math][Enumeration][Number Theory],33.5%,Medium,0
+75,Sort Colors,https://leetcode.com/problems/sort-colors/description/,[Array][Two Pointers][Sorting],61.7%,Medium,0
+79,Word Search,https://leetcode.com/problems/word-search/description/,[Array][String][Backtracking][Matrix],41.4%,Medium,0
+103,Binary Tree Zigzag Level Order Traversal,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/,[Tree][Breadth-First Search][Binary Tree],58.6%,Medium,0
+5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/description/,[String][Dynamic Programming],33.7%,Medium,0
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/description/,[Array][Two Pointers][Dynamic Programming][Stack][Monotonic Stack],60.8%,Hard,0
+207,Course Schedule,https://leetcode.com/problems/course-schedule/description/,[Depth-First Search][Breadth-First Search][Graph][Topological Sort],46.6%,Medium,0
+189,Rotate Array,https://leetcode.com/problems/rotate-array/description/,[Array][Math][Two Pointers],40.3%,Medium,0
+50,"Pow(x, n)",https://leetcode.com/problems/powx-n/description/,[Math][Recursion],34.5%,Medium,0
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/description/,[Array][Divide and Conquer][Dynamic Programming],50.6%,Medium,0
+283,Move Zeroes,https://leetcode.com/problems/move-zeroes/description/,[Array][Two Pointers],61.6%,Easy,0
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/,[Array][Dynamic Programming],53.5%,Easy,0
+20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/description/,[String][Stack],40.5%,Easy,0

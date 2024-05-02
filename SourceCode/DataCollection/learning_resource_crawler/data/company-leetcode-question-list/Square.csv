@@ -1,0 +1,5 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+2296,Design a Text Editor,https://leetcode.com/problems/design-a-text-editor/description/,[Linked List][String][Stack][Design][Simulation][Doubly-Linked List],43.7%,Hard,0
+490,The Maze,https://leetcode.com/problems/the-maze/description/,[Array][Depth-First Search][Breadth-First Search][Matrix],57.6%,Medium,0
+208,Implement Trie (Prefix Tree),https://leetcode.com/problems/implement-trie-prefix-tree/description/,[Hash Table][String][Design][Trie],64.7%,Medium,0
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/description/,[Array][Depth-First Search][Breadth-First Search][Union Find][Matrix],58.5%,Medium,0

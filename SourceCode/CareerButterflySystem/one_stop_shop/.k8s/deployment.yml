@@ -1,0 +1,57 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ui-app-deployment
+  labels:
+    app: ui-app
+spec:
+  template:
+    metadata:
+      name: ui-app-pod
+      labels:
+        app: ui-app
+    spec:
+      affinity:
+        podAntiAffinity:
+          preferredDuringSchedulingIgnoredDuringExecution:
+            - weight: 100
+              podAffinityTerm:
+                labelSelector:
+                  matchExpressions:
+                    - key: app
+                      operator: In
+                      values:
+                        - ui-app
+                namespaces:
+                  - default
+                topologyKey: kubernetes.io/hostname
+      containers:
+        - name: ui-app-container
+          image: <IMAGE>
+          envFrom:
+            - configMapRef: 
+                name: ui-app-config
+            - secretRef:
+                name: ui-secret
+          ports:
+            - containerPort: 8501
+          readinessProbe:
+            httpGet:
+              path: /
+              port: 8501
+            initialDelaySeconds: 20
+            periodSeconds: 20
+            failureThreshold: 8
+          livenessProbe:
+            httpGet:
+              path: /
+              port: 8501
+            initialDelaySeconds: 10
+            periodSeconds: 300
+            failureThreshold: 2
+
+
+  replicas: 1
+  selector:
+    matchLabels:
+      app: ui-app

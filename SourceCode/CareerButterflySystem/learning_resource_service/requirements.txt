@@ -1,0 +1,13 @@
+pandas==1.5.3
+spacy==3.7.2
+spacy-legacy==3.0.12
+spacy-loggers==1.0.4
+pypandoc==1.13
+pypandoc-binary==1.13
+html2text==2024.2.26
+flask==2.2.2
+werkzeug==2.2.2
+skillner==1.0.3
+ipython==8.20.0
+ipython-genutils==0.2.0
+waitress==3.0.0

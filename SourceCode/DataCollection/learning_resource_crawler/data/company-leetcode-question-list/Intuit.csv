@@ -1,0 +1,6 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/description/,[Depth-First Search][Breadth-First Search][Graph][Topological Sort],50.1%,Medium,0
+37,Sudoku Solver,https://leetcode.com/problems/sudoku-solver/description/,[Array][Hash Table][Backtracking][Matrix],60.5%,Hard,0
+146,LRU Cache,https://leetcode.com/problems/lru-cache/description/,[Hash Table][Linked List][Design][Doubly-Linked List],42.2%,Medium,0
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/description/,[Array][Two Pointers][Dynamic Programming][Stack][Monotonic Stack],60.8%,Hard,0
+15,3Sum,https://leetcode.com/problems/3sum/description/,[Array][Two Pointers][Sorting],34.2%,Medium,0

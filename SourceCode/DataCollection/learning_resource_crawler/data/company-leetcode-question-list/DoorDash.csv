@@ -1,0 +1,31 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+286,Walls and Gates,https://leetcode.com/problems/walls-and-gates/description/,[Array][Breadth-First Search][Matrix],61.2%,Medium,0
+1166,Design File System,https://leetcode.com/problems/design-file-system/description/,[Hash Table][String][Design][Trie],62.5%,Medium,0
+826,Most Profit Assigning Work,https://leetcode.com/problems/most-profit-assigning-work/description/,[Array][Two Pointers][Binary Search][Greedy][Sorting],45.9%,Medium,0
+1235,Maximum Profit in Job Scheduling,https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/,[Array][Binary Search][Dynamic Programming][Sorting],54.8%,Hard,0
+1790,Check if One String Swap Can Make Strings Equal,https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/,[Hash Table][String][Counting],45.5%,Easy,0
+2049,Count Nodes With the Highest Score,https://leetcode.com/problems/count-nodes-with-the-highest-score/description/,[Array][Tree][Depth-First Search][Binary Tree],48.6%,Medium,0
+124,Binary Tree Maximum Path Sum,https://leetcode.com/problems/binary-tree-maximum-path-sum/description/,[Dynamic Programming][Tree][Depth-First Search][Binary Tree],39.9%,Hard,0
+1779,Find Nearest Point That Has the Same X or Y Coordinate,https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/description/,[Array],68.1%,Easy,0
+329,Longest Increasing Path in a Matrix,https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/,[Array][Dynamic Programming][Depth-First Search][Breadth-First Search][Graph][Topological Sort][Memoization][Matrix],53.4%,Hard,0
+1268,Search Suggestions System,https://leetcode.com/problems/search-suggestions-system/description/,[Array][String][Binary Search][Trie][Sorting][Heap (Priority Queue)],65.3%,Medium,0
+1347,Minimum Number of Steps to Make Two Strings Anagram,https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/description/,[Hash Table][String][Counting],82.0%,Medium,0
+772,Basic Calculator III,https://leetcode.com/problems/basic-calculator-iii/description/,[Math][String][Stack][Recursion],50.2%,Hard,0
+556,Next Greater Element III,https://leetcode.com/problems/next-greater-element-iii/description/,[Math][Two Pointers][String],33.9%,Medium,0
+1905,Count Sub Islands,https://leetcode.com/problems/count-sub-islands/description/,[Array][Depth-First Search][Breadth-First Search][Union Find][Matrix],67.2%,Medium,0
+875,Koko Eating Bananas,https://leetcode.com/problems/koko-eating-bananas/description/,[Array][Binary Search],49.0%,Medium,0
+827,Making A Large Island,https://leetcode.com/problems/making-a-large-island/description/,[Array][Depth-First Search][Breadth-First Search][Union Find][Matrix],46.7%,Hard,0
+658,Find K Closest Elements,https://leetcode.com/problems/find-k-closest-elements/description/,[Array][Two Pointers][Binary Search][Sliding Window][Sorting][Heap (Priority Queue)],47.2%,Medium,0
+778,Swim in Rising Water,https://leetcode.com/problems/swim-in-rising-water/description/,[Array][Binary Search][Depth-First Search][Breadth-First Search][Union Find][Heap (Priority Queue)][Matrix],60.5%,Hard,0
+317,Shortest Distance from All Buildings,https://leetcode.com/problems/shortest-distance-from-all-buildings/description/,[Array][Breadth-First Search][Matrix],43.0%,Hard,0
+859,Buddy Strings,https://leetcode.com/problems/buddy-strings/description/,[Hash Table][String],33.0%,Easy,0
+297,Serialize and Deserialize Binary Tree,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/,[String][Tree][Depth-First Search][Breadth-First Search][Design][Binary Tree],56.5%,Hard,0
+735,Asteroid Collision,https://leetcode.com/problems/asteroid-collision/description/,[Array][Stack][Simulation],44.6%,Medium,0
+1944,Number of Visible People in a Queue,https://leetcode.com/problems/number-of-visible-people-in-a-queue/description/,[Array][Stack][Monotonic Stack],68.9%,Hard,0
+227,Basic Calculator II,https://leetcode.com/problems/basic-calculator-ii/description/,[Math][String][Stack],43.4%,Medium,0
+164,Maximum Gap,https://leetcode.com/problems/maximum-gap/description/,[Array][Sorting][Bucket Sort][Radix Sort],45.4%,Medium,0
+37,Sudoku Solver,https://leetcode.com/problems/sudoku-solver/description/,[Array][Hash Table][Backtracking][Matrix],60.5%,Hard,0
+45,Jump Game II,https://leetcode.com/problems/jump-game-ii/description/,[Array][Dynamic Programming][Greedy],40.3%,Medium,0
+84,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/description/,[Array][Stack][Monotonic Stack],44.0%,Hard,0
+55,Jump Game,https://leetcode.com/problems/jump-game/description/,[Array][Dynamic Programming][Greedy],38.5%,Medium,0
+1,Two Sum,https://leetcode.com/problems/two-sum/description/,[Array][Hash Table],52.0%,Easy,0

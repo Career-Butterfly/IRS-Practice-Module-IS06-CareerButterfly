@@ -1,0 +1,36 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+1797,Design Authentication Manager,https://leetcode.com/problems/design-authentication-manager/description/,[Hash Table][Design],56.8%,Medium,0
+716,Max Stack,https://leetcode.com/problems/max-stack/description/,[Linked List][Stack][Design][Doubly-Linked List][Ordered Set],45.0%,Hard,0
+432,All O`one Data Structure,https://leetcode.com/problems/all-oone-data-structure/description/,[Hash Table][Linked List][Design][Doubly-Linked List],36.6%,Hard,0
+364,Nested List Weight Sum II,https://leetcode.com/problems/nested-list-weight-sum-ii/description/,[Stack][Depth-First Search][Breadth-First Search],65.5%,Medium,0
+272,Closest Binary Search Tree Value II,https://leetcode.com/problems/closest-binary-search-tree-value-ii/description/,[Two Pointers][Stack][Tree][Depth-First Search][Binary Search Tree][Heap (Priority Queue)][Binary Tree],58.9%,Hard,0
+1117,Building H2O,https://leetcode.com/problems/building-h2o/description/,[Concurrency],56.0%,Medium,0
+724,Find Pivot Index,https://leetcode.com/problems/find-pivot-index/description/,[Array][Prefix Sum],57.1%,Easy,0
+1974,Minimum Time to Type Word Using Special Typewriter,https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/description/,[String][Greedy],74.6%,Easy,0
+1041,Robot Bounded In Circle,https://leetcode.com/problems/robot-bounded-in-circle/description/,[Math][String][Simulation],55.6%,Medium,0
+149,Max Points on a Line,https://leetcode.com/problems/max-points-on-a-line/description/,[Array][Hash Table][Math][Geometry],26.4%,Hard,0
+339,Nested List Weight Sum,https://leetcode.com/problems/nested-list-weight-sum/description/,[Depth-First Search][Breadth-First Search],83.3%,Medium,0
+341,Flatten Nested List Iterator,https://leetcode.com/problems/flatten-nested-list-iterator/description/,[Stack][Tree][Depth-First Search][Design][Queue][Iterator],64.3%,Medium,0
+636,Exclusive Time of Functions,https://leetcode.com/problems/exclusive-time-of-functions/description/,[Array][Stack],62.2%,Medium,0
+349,Intersection of Two Arrays,https://leetcode.com/problems/intersection-of-two-arrays/description/,[Array][Hash Table][Two Pointers][Binary Search][Sorting],72.4%,Easy,0
+297,Serialize and Deserialize Binary Tree,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/,[String][Tree][Depth-First Search][Breadth-First Search][Design][Binary Tree],56.5%,Hard,0
+658,Find K Closest Elements,https://leetcode.com/problems/find-k-closest-elements/description/,[Array][Two Pointers][Binary Search][Sliding Window][Sorting][Heap (Priority Queue)],47.2%,Medium,0
+367,Valid Perfect Square,https://leetcode.com/problems/valid-perfect-square/description/,[Math][Binary Search],43.6%,Easy,0
+516,Longest Palindromic Subsequence,https://leetcode.com/problems/longest-palindromic-subsequence/description/,[String][Dynamic Programming],62.4%,Medium,0
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/description/,[Array][Depth-First Search][Breadth-First Search][Union Find][Matrix],58.5%,Medium,0
+215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/description/,[Array][Divide and Conquer][Sorting][Heap (Priority Queue)][Quickselect],66.8%,Medium,0
+65,Valid Number,https://leetcode.com/problems/valid-number/description/,[String],19.5%,Hard,0
+380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/description/,[Array][Hash Table][Math][Design][Randomized],54.4%,Medium,0
+33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/description/,[Array][Binary Search],40.5%,Medium,0
+236,Lowest Common Ancestor of a Binary Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/,[Tree][Depth-First Search][Binary Tree],61.6%,Medium,0
+152,Maximum Product Subarray,https://leetcode.com/problems/maximum-product-subarray/description/,[Array][Dynamic Programming],35.0%,Medium,0
+146,LRU Cache,https://leetcode.com/problems/lru-cache/description/,[Hash Table][Linked List][Design][Doubly-Linked List],42.2%,Medium,0
+605,Can Place Flowers,https://leetcode.com/problems/can-place-flowers/description/,[Array][Greedy],29.4%,Easy,0
+31,Next Permutation,https://leetcode.com/problems/next-permutation/description/,[Array][Two Pointers],39.5%,Medium,0
+98,Validate Binary Search Tree,https://leetcode.com/problems/validate-binary-search-tree/description/,[Tree][Depth-First Search][Binary Search Tree][Binary Tree],32.8%,Medium,0
+198,House Robber,https://leetcode.com/problems/house-robber/description/,[Array][Dynamic Programming],50.9%,Medium,0
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/description/,[Array][Sorting],47.1%,Medium,0
+4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/description/,[Array][Binary Search][Divide and Conquer],39.4%,Hard,0
+100,Same Tree,https://leetcode.com/problems/same-tree/description/,[Tree][Depth-First Search][Breadth-First Search][Binary Tree],61.7%,Easy,0
+53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/description/,[Array][Divide and Conquer][Dynamic Programming],50.6%,Medium,0
+88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/description/,[Array][Two Pointers][Sorting],49.2%,Easy,0

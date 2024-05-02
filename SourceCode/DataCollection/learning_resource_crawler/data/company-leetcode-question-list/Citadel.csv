@@ -1,0 +1,24 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+2771,Longest Non-decreasing Subarray From Two Arrays,https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/description/,[Array][Dynamic Programming],28.7%,Medium,0
+1197,Minimum Knight Moves,https://leetcode.com/problems/minimum-knight-moves/description/,[Breadth-First Search],40.3%,Medium,0
+460,LFU Cache,https://leetcode.com/problems/lfu-cache/description/,[Hash Table][Linked List][Design][Doubly-Linked List],44.0%,Hard,0
+2918,Minimum Equal Sum of Two Arrays After Replacing Zeros,https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/description/,[Array][Greedy],33.2%,Medium,0
+782,Transform to Chessboard,https://leetcode.com/problems/transform-to-chessboard/description/,[Array][Math][Bit Manipulation][Matrix],51.0%,Hard,0
+740,Delete and Earn,https://leetcode.com/problems/delete-and-earn/description/,[Array][Hash Table][Dynamic Programming],56.5%,Medium,0
+124,Binary Tree Maximum Path Sum,https://leetcode.com/problems/binary-tree-maximum-path-sum/description/,[Dynamic Programming][Tree][Depth-First Search][Binary Tree],39.9%,Hard,0
+489,Robot Room Cleaner,https://leetcode.com/problems/robot-room-cleaner/description/,[Backtracking][Interactive],76.6%,Hard,0
+297,Serialize and Deserialize Binary Tree,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/,[String][Tree][Depth-First Search][Breadth-First Search][Design][Binary Tree],56.5%,Hard,0
+37,Sudoku Solver,https://leetcode.com/problems/sudoku-solver/description/,[Array][Hash Table][Backtracking][Matrix],60.5%,Hard,0
+117,Populating Next Right Pointers in Each Node II,https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/,[Linked List][Tree][Depth-First Search][Breadth-First Search][Binary Tree],52.1%,Medium,0
+329,Longest Increasing Path in a Matrix,https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/,[Array][Dynamic Programming][Depth-First Search][Breadth-First Search][Graph][Topological Sort][Memoization][Matrix],53.4%,Hard,0
+647,Palindromic Substrings,https://leetcode.com/problems/palindromic-substrings/description/,[String][Dynamic Programming],69.9%,Medium,0
+146,LRU Cache,https://leetcode.com/problems/lru-cache/description/,[Hash Table][Linked List][Design][Doubly-Linked List],42.2%,Medium,0
+380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/description/,[Array][Hash Table][Math][Design][Randomized],54.4%,Medium,0
+287,Find the Duplicate Number,https://leetcode.com/problems/find-the-duplicate-number/description/,[Array][Two Pointers][Binary Search][Bit Manipulation],59.4%,Medium,0
+51,N-Queens,https://leetcode.com/problems/n-queens/description/,[Array][Backtracking],67.7%,Hard,0
+239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/description/,[Array][Queue][Sliding Window][Heap (Priority Queue)][Monotonic Queue],46.5%,Hard,0
+150,Evaluate Reverse Polish Notation,https://leetcode.com/problems/evaluate-reverse-polish-notation/description/,[Array][Math][Stack],51.0%,Medium,0
+46,Permutations,https://leetcode.com/problems/permutations/description/,[Array][Backtracking],78.0%,Medium,0
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/description/,[Array][Depth-First Search][Breadth-First Search][Union Find][Matrix],58.5%,Medium,0
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/description/,[Array][Two Pointers][Dynamic Programming][Stack][Monotonic Stack],60.8%,Hard,0
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/description/,[Array][Two Pointers][Greedy],54.9%,Medium,0

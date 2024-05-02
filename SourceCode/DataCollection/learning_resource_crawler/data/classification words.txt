@@ -1,0 +1,106 @@
+java
+python
+programming
+html
+analytics
+sql
+api
+javascript 
+web application
+machine learning
+kubernetes 
+android
+system design
+css
+data science
+google cloud
+linux
+design pattern
+react
+c++
+xml
+asp.net
+blockchain
+relational database
+infrastructure
+mobile
+visual studio
+user interface
+design patterns
+automation
+data structures
+r
+c#
+pipelines
+web server
+docker
+microservices
+ide
+php
+mobile app
+angular
+node.js
+data visualization
+devops
+penetration testing
+virtual machine
+c
+amazon web
+datasets
+big data
+kotlin
+git
+mysql
+apache spark
+time series
+web apps
+data lake
+junit
+mongodb
+cloud computing
+postgresql
+nosql
+wordpress
+rust
+spring boot
+spring
+visualization
+swift
+data processing
+cloud native
+data analysis
+reactive
+serverless
+tensorflow
+ruby
+data integration
+unix
+distributed systems
+data structure
+typescript
+deep learning
+red hat
+game
+elasticsearch
+redis
+reliability
+scripting
+maven
+data management
+sql database
+sql server
+computer vision
+nlp
+natural language processing
+js
+.net
+artificial intelligence
+ai
+frontend
+backend
+fullstack
+azure
+quantum
+mq
+message queue
+monitoring

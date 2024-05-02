@@ -1,0 +1,12 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+179,Largest Number,https://leetcode.com/problems/largest-number/description/,[Array][String][Greedy][Sorting],35.8%,Medium,0
+343,Integer Break,https://leetcode.com/problems/integer-break/description/,[Math][Dynamic Programming],60.2%,Medium,0
+202,Happy Number,https://leetcode.com/problems/happy-number/description/,[Hash Table][Math][Two Pointers],55.9%,Easy,0
+647,Palindromic Substrings,https://leetcode.com/problems/palindromic-substrings/description/,[String][Dynamic Programming],69.9%,Medium,0
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/,[Array][Dynamic Programming],53.5%,Easy,0
+189,Rotate Array,https://leetcode.com/problems/rotate-array/description/,[Array][Math][Two Pointers],40.3%,Medium,0
+14,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/description/,[String][Trie],42.4%,Easy,0
+392,Is Subsequence,https://leetcode.com/problems/is-subsequence/description/,[Two Pointers][String][Dynamic Programming],47.9%,Easy,0
+7,Reverse Integer,https://leetcode.com/problems/reverse-integer/description/,[Math],28.4%,Medium,0
+70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/description/,[Math][Dynamic Programming][Memoization],52.8%,Easy,0
+26,Remove Duplicates from Sorted Array,https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/,[Array][Two Pointers],55.0%,Easy,0

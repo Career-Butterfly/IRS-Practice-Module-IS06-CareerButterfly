@@ -1,0 +1,9 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+2366,Minimum Replacements to Sort the Array,https://leetcode.com/problems/minimum-replacements-to-sort-the-array/description/,[Array][Math][Greedy],53.7%,Hard,0
+2062,Count Vowel Substrings of a String,https://leetcode.com/problems/count-vowel-substrings-of-a-string/description/,[Hash Table][String],67.1%,Easy,0
+851,Loud and Rich,https://leetcode.com/problems/loud-and-rich/description/,[Array][Depth-First Search][Graph][Topological Sort],59.1%,Medium,0
+895,Maximum Frequency Stack,https://leetcode.com/problems/maximum-frequency-stack/description/,[Hash Table][Stack][Design][Ordered Set],66.5%,Hard,0
+1882,Process Tasks Using Servers,https://leetcode.com/problems/process-tasks-using-servers/description/,[Array][Heap (Priority Queue)],40.0%,Medium,0
+2402,Meeting Rooms III,https://leetcode.com/problems/meeting-rooms-iii/description/,[Array][Hash Table][Sorting][Heap (Priority Queue)][Simulation],45.2%,Hard,0
+242,Valid Anagram,https://leetcode.com/problems/valid-anagram/description/,[Hash Table][String][Sorting],64.3%,Easy,0
+121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/,[Array][Dynamic Programming],53.5%,Easy,0

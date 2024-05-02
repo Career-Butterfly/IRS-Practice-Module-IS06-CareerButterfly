@@ -1,0 +1,8 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+158,Read N Characters Given read4 II - Call Multiple Times,https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/description/,[Array][Simulation][Interactive],42.1%,Hard,0
+304,Range Sum Query 2D - Immutable,https://leetcode.com/problems/range-sum-query-2d-immutable/description/,[Array][Design][Matrix][Prefix Sum],54.2%,Medium,0
+981,Time Based Key-Value Store,https://leetcode.com/problems/time-based-key-value-store/description/,[Hash Table][String][Binary Search][Design],49.6%,Medium,0
+365,Water and Jug Problem,https://leetcode.com/problems/water-and-jug-problem/description/,[Math][Depth-First Search][Breadth-First Search],39.8%,Medium,0
+76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/description/,[Hash Table][String][Sliding Window],42.7%,Hard,0
+109,Convert Sorted List to Binary Search Tree,https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/,[Linked List][Divide and Conquer][Tree][Binary Search Tree][Binary Tree],61.6%,Medium,0
+994,Rotting Oranges,https://leetcode.com/problems/rotting-oranges/description/,[Array][Breadth-First Search][Matrix],53.9%,Medium,0

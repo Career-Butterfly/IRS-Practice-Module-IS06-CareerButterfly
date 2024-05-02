@@ -1,0 +1,52 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: sentiment-app-deployment
+  labels:
+    app: sentiment-app
+spec:
+  template:
+    metadata:
+      name: sentiment-app-pod
+      labels:
+        app: sentiment-app
+    spec:
+      affinity:
+        podAntiAffinity:
+          preferredDuringSchedulingIgnoredDuringExecution:
+            - weight: 100
+              podAffinityTerm:
+                labelSelector:
+                  matchExpressions:
+                    - key: app
+                      operator: In
+                      values:
+                        - sentiment-app
+                namespaces:
+                  - default
+                topologyKey: kubernetes.io/hostname
+      containers:
+        - name: sentiment-app-container
+          image: <IMAGE>
+          ports:
+            - containerPort: 8100
+          readinessProbe:
+            httpGet:
+              path: /ping
+              port: 8100
+            initialDelaySeconds: 10
+            periodSeconds: 5
+            failureThreshold: 8
+          livenessProbe:
+            httpGet:
+              path: /ping
+              port: 8100
+            initialDelaySeconds: 10
+            periodSeconds: 30
+            failureThreshold: 8
+
+
+  replicas: 1
+  selector:
+    matchLabels:
+      app: sentiment-app

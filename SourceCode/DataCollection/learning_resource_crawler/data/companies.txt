@@ -1,0 +1,412 @@
+Facebook
+Google
+Amazon
+Microsoft
+Uber
+Apple
+Oracle
+TikTok
+Goldman Sachs
+Walmart Labs
+Bloomberg
+Adobe
+DoorDash
+Nvidia
+LinkedIn
+Citadel
+Pinterest
+Atlassian
+JPMorgan
+Airbnb
+Tesla
+IBM
+Yandex
+Intuit
+Salesforce
+Snapchat
+Roblox
+Capital One
+ByteDance
+Snowflake
+ServiceNow
+Expedia
+Netflix
+Databricks
+Yahoo
+PayPal
+Infosys
+Cisco
+Visa
+tcs
+Zoho
+Lyft
+DE Shaw
+Samsung
+eBay
+Twitter
+Accenture
+Morgan Stanley
+SAP
+Qualcomm
+Palantir Technologies
+Flipkart
+MathWorks
+Coupang
+Intel
+Square
+Two Sigma
+Splunk
+Datadog
+Booking.com
+Rubrik
+Coinbase
+Dropbox
+Nutanix
+Wayfair
+Affirm
+Jane Street
+Reddit
+Karat
+Robinhood
+Quora
+Stripe
+Qualtrics
+Yelp
+PhonePe
+Rippling
+Akuna Capital
+VMware
+Palo Alto Networks
+Huawei
+Epic Systems
+Indeed
+HRT
+Zillow
+Agoda
+Hudson River Trading
+Twilio
+Tencent
+Juspay
+Zoox
+Confluent
+Pure Storage
+Workday
+American Express
+Alibaba
+Verkada
+Grab
+Veeva
+Anduril
+instacart
+Cloudflare
+Spotify
+EPAM Systems
+Siemens
+Docusign
+Deloitte
+Media.net
+ZScaler
+Optiver
+Arcesium
+CrowdStrike
+LiveRamp
+BlackRock
+Deutsche Bank
+MongoDB
+Box
+Cohesity
+Tinkoff
+Disney
+Hulu
+warnermedia
+AMD
+IXL
+Shopee
+Shopify
+C3 IoT
+Arista Networks
+UiPath
+Rivian
+Dell
+TripAdvisor
+Swiggy
+SIG
+Waymo
+Zoom
+Cruise Automation
+Coursera
+Autodesk
+turing
+Cloudera
+GE Healthcare
+SoFi
+Barclays
+Moveworks
+MakeMyTrip
+Roku
+Myntra
+Akamai
+IMC
+Paytm
+Upstart
+Asana
+Patreon
+Sumologic
+Capgemini
+Squarepoint Capital
+Wells Fargo
+Nuro
+Nagarro
+Wix
+PornHub
+Jump Trading
+BNY Mellon
+Cognizant
+Bolt
+Hubspot
+Niantic
+Accolite
+Okta
+Duolingo
+The Trade Desk
+Verily
+NetApp
+GoDaddy
+DRW
+Riot Games
+Pony.ai
+thoughtspot
+Fidelity
+Audible
+Virtu Financial
+Samsara
+Grammarly
+Zomato
+Lucid
+HPE
+Meesho
+Honeywell
+Zalando
+Axon
+Point72
+Avito
+HCL
+Bank of America
+tekion
+zeta
+wipro
+Remitly
+Cadence
+General Motors
+Activision
+Ozon
+FreshWorks
+Tiger Analytics
+Smartsheet
+ola
+Lowe
+Rakuten
+RBC
+Commvault
+PayPay
+opentext
+McKinsey
+Tower Research
+Citi
+Juniper
+Amdocs
+Ripple
+Fortinet
+Chewy
+Sony
+Bosch
+Nordstrom
+Zendesk
+Netskope
+Toptal
+Clari
+athenahealth
+Pwc
+Deliveroo
+DP world
+WorldQuant
+Baidu
+Societe Generale
+Zynga
+citibank
+UBS
+Miro
+Twitch
+FactSet
+Hotstar
+jio
+Groww
+ShareChat
+MAQ Software
+HSBC
+Flexport
+Gusto
+Sprinklr
+AQR Capital Management LLC
+Airtel
+GE Digital
+Publicis Sapient
+spinny
+Dream11
+Virtusa
+Opendoor
+Citrix
+Groupon
+Microstrategy
+Faire
+razorpay
+Mercari
+Cashfree
+Wealthfront
+CRED
+Synology
+Yext
+Amadeus
+Optum
+Sigmoid
+general electric
+Directi
+TuSimple
+persistent systems
+MindTree
+NetEase
+BitGo
+Info Edge
+Druva
+Thomson Reuters
+AppDynamics
+Navi
+Criteo
+Hive
+ASUS
+Peloton
+United Health Group
+Gap
+Chime
+Quip (Salesforce)
+Zopsmart
+F5 Networks
+sabre
+observe.ai
+National Instruments
+Zappos
+carwale
+zeta suite
+Careem
+Mindtickle
+Altimetrik
+Kakao
+Garena
+Avalara
+CureFit
+Luxoft
+Whatfix
+Quince
+Canonical
+Zenefits
+WePay
+Slice
+ThousandEyes
+Addepar
+smartnews
+Snapdeal
+Netsuite
+SoundHound
+Turvo
+Vimeo
+CVENT
+Thumbtack
+Works Applications
+FPT
+Cleartrip
+Discord
+Tesco
+Squarespace
+Wish
+Redfin
+Affinity
+InMobi
+Meituan
+Valve
+oyo
+Veritas
+TripleByte
+Gilt Groupe
+Dataminr
+Sapient
+Trilogy
+Houzz
+Fallible
+Pocket Gems
+Helix
+IIT Bombay
+josh technology
+Code Studio
+Aetion
+Bloomreach
+Poynt
+instagram
+Delhivery
+TIAA
+Fleetx
+Strava
+Dunzo
+Toast
+DailyHunt
+Postmates
+payu
+Leap Motion
+Poshmark
+Moengage
+Drawbridge
+Urban Company
+fourkites
+ForUsAll
+Machine Zone
+Udemy
+Rackspace
+OLX
+Yatra
+T-mobile
+Newzera
+Jingchi
+Brex
+RetailMeNot
+Wayve
+Softwire
+MoneyLion
+HiLabs
+Radius
+Bridgewater Associates
+Xing
+Analytics quotient
+Accelya
+GSN Games
+alphonso
+AllinCall
+purplle
+TA Digital
+MachineZone
+Ascend
+ION
+1Kosmos
+BT Group
+Edelweiss
+Auriga
+NextJump
+Mobisy
+MishiPay
+Pickrr
+Qumulo
+T System
+Jeavio
+Unbxd
+Polar
+Clutter
+edabit
+DTCC

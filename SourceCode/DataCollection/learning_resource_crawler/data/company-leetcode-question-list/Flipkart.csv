@@ -1,0 +1,19 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+2499,Minimum Total Cost to Make Arrays Unequal,https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal/description/,[Array][Hash Table][Greedy][Counting],43.2%,Hard,0
+420,Strong Password Checker,https://leetcode.com/problems/strong-password-checker/description/,[String][Greedy][Heap (Priority Queue)],13.6%,Hard,0
+934,Shortest Bridge,https://leetcode.com/problems/shortest-bridge/description/,[Array][Depth-First Search][Breadth-First Search][Matrix],57.7%,Medium,0
+719,Find K-th Smallest Pair Distance,https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/,[Array][Two Pointers][Binary Search][Sorting],37.7%,Hard,0
+330,Patching Array,https://leetcode.com/problems/patching-array/description/,[Array][Greedy],41.5%,Hard,0
+2551,Put Marbles in Bags,https://leetcode.com/problems/put-marbles-in-bags/description/,[Array][Greedy][Sorting][Heap (Priority Queue)],66.8%,Hard,0
+1463,Cherry Pickup II,https://leetcode.com/problems/cherry-pickup-ii/description/,[Array][Dynamic Programming][Matrix],72.0%,Hard,0
+480,Sliding Window Median,https://leetcode.com/problems/sliding-window-median/description/,[Array][Hash Table][Sliding Window][Heap (Priority Queue)],39.3%,Hard,0
+983,Minimum Cost For Tickets,https://leetcode.com/problems/minimum-cost-for-tickets/description/,[Array][Dynamic Programming],65.3%,Medium,0
+312,Burst Balloons,https://leetcode.com/problems/burst-balloons/description/,[Array][Dynamic Programming],58.5%,Hard,0
+437,Path Sum III,https://leetcode.com/problems/path-sum-iii/description/,[Tree][Depth-First Search][Binary Tree],46.5%,Medium,0
+1235,Maximum Profit in Job Scheduling,https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/,[Array][Binary Search][Dynamic Programming][Sorting],54.8%,Hard,0
+1011,Capacity To Ship Packages Within D Days,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/,[Array][Binary Search],69.1%,Medium,0
+735,Asteroid Collision,https://leetcode.com/problems/asteroid-collision/description/,[Array][Stack][Simulation],44.6%,Medium,0
+84,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/description/,[Array][Stack][Monotonic Stack],44.0%,Hard,0
+11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/description/,[Array][Two Pointers][Greedy],54.9%,Medium,0
+42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/description/,[Array][Two Pointers][Dynamic Programming][Stack][Monotonic Stack],60.8%,Hard,0
+3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/description/,[Hash Table][String][Sliding Window],34.5%,Medium,0

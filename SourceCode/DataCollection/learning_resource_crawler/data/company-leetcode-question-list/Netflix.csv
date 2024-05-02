@@ -1,0 +1,11 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+528,Random Pick with Weight,https://leetcode.com/problems/random-pick-with-weight/description/,[Array][Math][Binary Search][Prefix Sum][Randomized],46.6%,Medium,0
+341,Flatten Nested List Iterator,https://leetcode.com/problems/flatten-nested-list-iterator/description/,[Stack][Tree][Depth-First Search][Design][Queue][Iterator],64.3%,Medium,0
+41,First Missing Positive,https://leetcode.com/problems/first-missing-positive/description/,[Array][Hash Table],37.8%,Hard,0
+692,Top K Frequent Words,https://leetcode.com/problems/top-k-frequent-words/description/,[Hash Table][String][Trie][Sorting][Heap (Priority Queue)][Bucket Sort][Counting],57.8%,Medium,0
+981,Time Based Key-Value Store,https://leetcode.com/problems/time-based-key-value-store/description/,[Hash Table][String][Binary Search][Design],49.6%,Medium,0
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/description/,[Array][Sorting],47.1%,Medium,0
+347,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/description/,[Array][Hash Table][Divide and Conquer][Sorting][Heap (Priority Queue)][Bucket Sort][Counting][Quickselect],62.7%,Medium,0
+228,Summary Ranges,https://leetcode.com/problems/summary-ranges/description/,[Array],50.3%,Easy,0
+380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/description/,[Array][Hash Table][Math][Design][Randomized],54.4%,Medium,0
+146,LRU Cache,https://leetcode.com/problems/lru-cache/description/,[Hash Table][Linked List][Design][Doubly-Linked List],42.2%,Medium,0

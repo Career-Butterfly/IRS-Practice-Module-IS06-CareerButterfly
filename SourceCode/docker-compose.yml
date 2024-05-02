@@ -1,0 +1,40 @@
+version: '3.8'
+
+services:
+  sentiment-service:
+    build:
+      context: ./CareerButterflySystem/sentiment_service
+    ports:
+      - '8100:8100'
+    volumes:
+      - ./DataCollection/company_review_crawler/data:/data
+  job-recommender:
+    build:
+      context: ./CareerButterflySystem/job_recommender
+    ports:
+      - '4000:4000'
+    volumes:
+      - ./DataCollection/job_post_crawler/data:/data
+    depends_on:
+      - sentiment-service
+  cv-and-resume-generator:
+    build:
+      context: ./CareerButterflySystem/cv_and_resume_generator
+    ports:
+      - 8000:8000
+  learning-resource-service:
+    build:
+      context: ./CareerButterflySystem/learning_resource_service
+    ports:
+      - 8200:8200
+    volumes:
+      - ./DataCollection/learning_resource_crawler/data:/data
+  one-stop-shop:
+    build:
+      context: ./CareerButterflySystem/one_stop_shop
+    ports:
+      - 8501:8501
+    depends_on:
+      - job-recommender
+      - cv-and-resume-generator
+      - learning-resource-service

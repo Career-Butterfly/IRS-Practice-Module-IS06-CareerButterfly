@@ -1,0 +1,9 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+1524,Number of Sub-arrays With Odd Sum,https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/description/,[Array][Math][Dynamic Programming][Prefix Sum],43.5%,Medium,0
+1535,Find the Winner of an Array Game,https://leetcode.com/problems/find-the-winner-of-an-array-game/description/,[Array][Simulation],57.2%,Medium,0
+1542,Find Longest Awesome Substring,https://leetcode.com/problems/find-longest-awesome-substring/description/,[Hash Table][String][Bit Manipulation],42.7%,Hard,0
+1584,Min Cost to Connect All Points,https://leetcode.com/problems/min-cost-to-connect-all-points/description/,[Array][Union Find][Graph][Minimum Spanning Tree],66.6%,Medium,0
+1727,Largest Submatrix With Rearrangements,https://leetcode.com/problems/largest-submatrix-with-rearrangements/description/,[Array][Greedy][Sorting][Matrix],75.4%,Medium,0
+2473,Minimum Cost to Buy Apples,https://leetcode.com/problems/minimum-cost-to-buy-apples/description/,[Array][Graph][Heap (Priority Queue)][Shortest Path],59.8%,Medium,0
+2479,Maximum XOR of Two Non-Overlapping Subtrees,https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees/description/,[Tree][Depth-First Search][Graph][Trie],49.0%,Hard,0
+2538,Difference Between Maximum and Minimum Price Sum,https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/description/,[Array][Dynamic Programming][Tree][Depth-First Search],32.3%,Hard,0

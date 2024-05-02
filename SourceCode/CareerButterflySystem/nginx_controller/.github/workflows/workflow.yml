@@ -1,0 +1,33 @@
+# name: CICD
+
+# on:
+#   push:
+#     branches:
+#       - main
+#     paths:
+#       - '**.yml'
+#       - '.github/**'
+
+# jobs:
+#  build:
+#    runs-on: ubuntu-latest
+#    steps:
+#       - name: Checkout main
+#         uses: actions/checkout@v4
+
+#       - name: Install doctl
+#         uses: digitalocean/action-doctl@v2
+#         with:
+#           token: ${{ secrets.DIGITALOCEAN_ACCESS_TOKEN }}
+
+#       - name: Log in to DigitalOcean Container Registry with short-lived credentials
+#         run: doctl registry login --expiry-seconds 1200
+
+#       - name: Save DigitalOcean kubeconfig with short-lived credentials
+#         run: doctl kubernetes cluster kubeconfig save --expiry-seconds 600 c09e80b9-5a3d-4cf9-b3d7-e26f81bb8af5
+
+#       - name: Apply ingress resource
+#         run: kubectl apply -f $GITHUB_WORKSPACE/ingress-resource.yml
+
+#       - name: Apply letsencrypt issuer
+#         run: kubectl apply -f $GITHUB_WORKSPACE/issuer.yml

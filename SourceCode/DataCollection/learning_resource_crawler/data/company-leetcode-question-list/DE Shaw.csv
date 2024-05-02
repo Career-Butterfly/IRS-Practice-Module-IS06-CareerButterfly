@@ -1,0 +1,5 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+402,Remove K Digits,https://leetcode.com/problems/remove-k-digits/description/,[String][Stack][Greedy][Monotonic Stack],31.0%,Medium,0
+221,Maximal Square,https://leetcode.com/problems/maximal-square/description/,[Array][Dynamic Programming][Matrix],46.3%,Medium,0
+224,Basic Calculator,https://leetcode.com/problems/basic-calculator/description/,[Math][String][Stack][Recursion],43.2%,Hard,0
+54,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/description/,[Array][Matrix][Simulation],48.9%,Medium,0

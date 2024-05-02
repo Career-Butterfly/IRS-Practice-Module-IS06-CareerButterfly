@@ -1,0 +1,14 @@
+No,Title,Link,Tags,Acceptance,Difficulty,Frequency
+811,Subdomain Visit Count,https://leetcode.com/problems/subdomain-visit-count/description/,[Array][Hash Table][String][Counting],76.1%,Medium,0
+1604,Alert Using Same Key-Card Three or More Times in a One Hour Period,https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/description/,[Array][Hash Table][String][Sorting],45.8%,Medium,0
+1197,Minimum Knight Moves,https://leetcode.com/problems/minimum-knight-moves/description/,[Breadth-First Search],40.3%,Medium,0
+1160,Find Words That Can Be Formed by Characters,https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/description/,[Array][Hash Table][String],70.7%,Easy,0
+718,Maximum Length of Repeated Subarray,https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/,[Array][Binary Search][Dynamic Programming][Sliding Window][Rolling Hash][Hash Function],51.0%,Medium,0
+79,Word Search,https://leetcode.com/problems/word-search/description/,[Array][String][Backtracking][Matrix],41.4%,Medium,0
+212,Word Search II,https://leetcode.com/problems/word-search-ii/description/,[Array][String][Backtracking][Trie][Matrix],36.2%,Hard,0
+68,Text Justification,https://leetcode.com/problems/text-justification/description/,[Array][String][Simulation],42.7%,Hard,0
+23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/description/,[Linked List][Divide and Conquer][Heap (Priority Queue)][Merge Sort],52.2%,Hard,0
+295,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/description/,[Two Pointers][Design][Sorting][Heap (Priority Queue)][Data Stream],51.8%,Hard,0
+347,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/description/,[Array][Hash Table][Divide and Conquer][Sorting][Heap (Priority Queue)][Bucket Sort][Counting][Quickselect],62.7%,Medium,0
+21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/description/,[Linked List][Recursion],64.0%,Easy,0
+88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/description/,[Array][Two Pointers][Sorting],49.2%,Easy,0

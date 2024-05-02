@@ -1,0 +1,72 @@
+Tag,Appearance
+Array,1606
+String,680
+Hash Table,572
+Math,487
+Dynamic Programming,485
+Sorting,388
+Greedy,358
+Depth-First Search,287
+Database,260
+Binary Search,254
+Tree,228
+Breadth-First Search,227
+Matrix,220
+Bit Manipulation,194
+Two Pointers,193
+Binary Tree,174
+Heap (Priority Queue),165
+Prefix Sum,153
+Stack,151
+Simulation,145
+Graph,139
+Counting,122
+Design,121
+Sliding Window,113
+Backtracking,100
+Union Find,80
+Enumeration,75
+Linked List,75
+Ordered Set,58
+Monotonic Stack,57
+Trie,53
+Number Theory,50
+Divide and Conquer,46
+Recursion,45
+Bitmask,43
+Queue,43
+Binary Search Tree,40
+Segment Tree,40
+Memoization,37
+Geometry,36
+Hash Function,35
+Binary Indexed Tree,35
+Topological Sort,31
+String Matching,30
+Combinatorics,28
+Rolling Hash,28
+Shortest Path,26
+Game Theory,25
+Interactive,22
+Data Stream,20
+Brainteaser,16
+Monotonic Queue,15
+Randomized,12
+Merge Sort,11
+Iterator,9
+Concurrency,9
+Doubly-Linked List,8
+Probability and Statistics,7
+Quickselect,7
+Bucket Sort,6
+Suffix Array,6
+Minimum Spanning Tree,5
+Counting Sort,5
+Shell,4
+Line Sweep,4
+Reservoir Sampling,4
+Strongly Connected Component,3
+Eulerian Circuit,3
+Radix Sort,3
+Rejection Sampling,2
+Biconnected Component,1

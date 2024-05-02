@@ -1,0 +1,52 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: cv-and-resume-generator-app-deployment
+  labels:
+    app: cv-and-resume-generator-app
+spec:
+  template:
+    metadata:
+      name: cv-and-resume-generator-app-pod
+      labels:
+        app: cv-and-resume-generator-app
+    spec:
+      affinity:
+        podAntiAffinity:
+          preferredDuringSchedulingIgnoredDuringExecution:
+            - weight: 100
+              podAffinityTerm:
+                labelSelector:
+                  matchExpressions:
+                    - key: app
+                      operator: In
+                      values:
+                        - cv-and-resume-generator-app
+                namespaces:
+                  - default
+                topologyKey: kubernetes.io/hostname
+      containers:
+        - name: cv-and-resume-generator-app-container
+          image: <IMAGE>
+          ports:
+            - containerPort: 8000
+          readinessProbe:
+            httpGet:
+              path: /ping
+              port: 8000
+            initialDelaySeconds: 10
+            periodSeconds: 5
+            failureThreshold: 8
+          livenessProbe:
+            httpGet:
+              path: /ping
+              port: 8000
+            initialDelaySeconds: 10
+            periodSeconds: 30
+            failureThreshold: 8
+
+
+  replicas: 1
+  selector:
+    matchLabels:
+      app: cv-and-resume-generator-app
